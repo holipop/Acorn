@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 18,
-    "description": "Minecraft's Default Textures for Pack & Mod Creators!"
+    "description": "A UI overhaul inspired by Breath of the Wild.",
+    "pack_format": 22,
+    "supported_formats": [15, 26]
   }
 }
